@@ -1,2 +1,2 @@
 # Delta_Robot
-This is my capstone project. The reason for choosing the topic is packaging and product classification industry. In addtions, the manufacturing industry in Vietnam is still rudimentary without automation and robot application. The use of robots in production is still limited due to installation costs and optimization. Parallel robots were chosen because they solve the problems of cost, convenience, and efficiency in sorting and packaging products. 
+This is my capstone project. This project involves building a Delta Robot with 6 Degrees of Freedom (DOF) using an Arduino and stepper motors. The robot can move in three-dimensional space and is suitable for tasks like pick-and-place and rapid prototyping.
