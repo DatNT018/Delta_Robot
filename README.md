@@ -1,2 +1,2 @@
-# delta-robot
-capstone project
+# Delta_Robot
+This is my capstone project. The reason for choosing the topic is packaging and product classification industry. In addtions, the manufacturing industry in Vietnam is still rudimentary without automation and robot application. The use of robots in production is still limited due to installation costs and optimization. Parallel robots were chosen because they solve the problems of cost, convenience, and efficiency in sorting and packaging products. 
